@@ -33,4 +33,4 @@ Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản �
 
 ![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/2664867e-eb81-4043-bfbd-8546d1be9a3e)
 
-
+[**Tấn công phishing**](https://soc.gov.vn/check-phishing) : Tin tặc sẽ gửi email hoặc tin nhắn giả mạo yêu cầu người dùng nhập thông tin đăng nhập của họ. Nếu người dùng nhấp vào liên kết hoặc nhập thông tin của họ, tin tặc có thể sử dụng thông tin đó để đăng nhập vào tài khoản của họ.
