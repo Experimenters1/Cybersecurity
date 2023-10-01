@@ -25,10 +25,12 @@ Bạn cũng nên bật xác thực hai yếu tố [**2FA**](https://www.microsof
 
 Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản đến phức tạp. Dưới đây là một số kỹ thuật phổ biến nhất: <br><br> 
 ![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/9847cd4e-369d-4df1-84e7-7b73c5ea7045)  <br><br>  
-Tấn công  [**brute force**](https://viblo.asia/p/tan-cong-brute-force-la-gi-oOVlYbz458W) : Tin tặc sẽ sử dụng một chương trình máy tính để thử tất cả các khả năng mật khẩu có thể có cho đến khi tìm thấy mật khẩu chính xác. Kỹ thuật này có thể mất nhiều thời gian, nhưng nó có thể thành công nếu mật khẩu ngắn hoặc dễ đoán. <br><br>
+[**Tấn công  brute force**](https://viblo.asia/p/tan-cong-brute-force-la-gi-oOVlYbz458W) : Tin tặc sẽ sử dụng một chương trình máy tính để thử tất cả các khả năng mật khẩu có thể có cho đến khi tìm thấy mật khẩu chính xác. Kỹ thuật này có thể mất nhiều thời gian, nhưng nó có thể thành công nếu mật khẩu ngắn hoặc dễ đoán. <br><br>
 
-![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/70ccfb1b-5bcf-460d-a068-f8d767933a1b)
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/70ccfb1b-5bcf-460d-a068-f8d767933a1b) <br><br>
 
-[**Tấn công từ điển**](https://cystack.net/blog/3-hinh-thuc-tan-cong-password-co-ban) : Tin tặc sẽ sử dụng một danh sách các từ phổ biến hoặc dễ đoán để thử làm mật khẩu. Kỹ thuật này thường hiệu quả hơn tấn công brute force, nhưng nó vẫn có thể thất bại nếu mật khẩu không nằm trong danh sách.
+[**Tấn công từ điển**](https://cystack.net/blog/3-hinh-thuc-tan-cong-password-co-ban) : Tin tặc sẽ sử dụng một danh sách các từ phổ biến hoặc dễ đoán để thử làm mật khẩu. Kỹ thuật này thường hiệu quả hơn tấn công brute force, nhưng nó vẫn có thể thất bại nếu mật khẩu không nằm trong danh sách. <br><br>
+
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/2664867e-eb81-4043-bfbd-8546d1be9a3e)
 
 
