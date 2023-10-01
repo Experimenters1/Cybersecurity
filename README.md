@@ -40,4 +40,15 @@ Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản �
 
 ![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/af581615-9dd3-4623-af5b-c76bb8e59a65) <br><br>
 
-[**Tấn công lỗ hổng bảo mật**](https://cystack.net/blog/lo-hong-bao-mat) : Tin tặc có thể khai thác các lỗ hổng bảo mật trong hệ thống để truy cập mật khẩu. Các lỗ hổng bảo mật có thể được tìm thấy trong phần mềm, cơ sở dữ liệu hoặc các hệ thống khác.
+[**Tấn công lỗ hổng bảo mật**](https://cystack.net/blog/lo-hong-bao-mat) : Tin tặc có thể khai thác các lỗ hổng bảo mật trong hệ thống để truy cập mật khẩu. Các lỗ hổng bảo mật có thể được tìm thấy trong phần mềm, cơ sở dữ liệu hoặc các hệ thống khác. <br><br>
+
+Để bảo vệ mật khẩu của bạn khỏi bị tấn công, bạn nên thực hiện các biện pháp sau: <br><br>
+
++) Sử dụng mật khẩu mạnh và phức tạp. <br><br>
++) Thay đổi mật khẩu của bạn thường xuyên. <br><br>
++) Không sử dụng cùng một mật khẩu cho nhiều tài khoản. <br><br>
++) Bật xác thực hai yếu tố (2FA) cho tất cả tài khoản hỗ trợ tính năng này. <br><br>
++) Cẩn thận với các email và tin nhắn lạ. <br><br>
++) Cập nhật phần mềm của bạn thường xuyên. <br><br>
+
+
