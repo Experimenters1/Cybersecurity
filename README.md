@@ -51,7 +51,8 @@ Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản �
 +) Cẩn thận với các email và tin nhắn lạ. <br><br>
 +) Cập nhật phần mềm của bạn thường xuyên. <br><br>
 
-![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/0c9fef08-7003-4ac0-8585-de69291cfa2f)
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/0c9fef08-7003-4ac0-8585-de69291cfa2f) <br><br>
 
-[**Cybersecurity Email**](https://www.proofpoint.com/us/threat-reference/email-security) là một thuật ngữ dùng để mô tả các công nghệ và phương pháp được sử dụng để bảo vệ **email** khỏi các mối đe dọa an ninh mạng, chẳng hạn như:
+[**Cybersecurity Email**](https://www.proofpoint.com/us/threat-reference/email-security) là một thuật ngữ dùng để mô tả các công nghệ và phương pháp được sử dụng để bảo vệ **email** khỏi các mối đe dọa an ninh mạng, chẳng hạn như: <br><br>
 
++) **Phishing** : Đây là một loại tấn công lừa đảo trong đó kẻ tấn công gửi email giả mạo đến người dùng, yêu cầu họ cung cấp thông tin nhạy cảm như mật khẩu, số thẻ tín dụng hoặc thông tin tài khoản ngân hàng.
