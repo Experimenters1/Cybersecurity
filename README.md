@@ -31,6 +31,9 @@ Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản �
 
 [**Tấn công từ điển**](https://cystack.net/blog/3-hinh-thuc-tan-cong-password-co-ban) : Tin tặc sẽ sử dụng một danh sách các từ phổ biến hoặc dễ đoán để thử làm mật khẩu. Kỹ thuật này thường hiệu quả hơn tấn công brute force, nhưng nó vẫn có thể thất bại nếu mật khẩu không nằm trong danh sách. <br><br>
 
-![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/2664867e-eb81-4043-bfbd-8546d1be9a3e)
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/2664867e-eb81-4043-bfbd-8546d1be9a3e) <br><br>
 
-[**Tấn công phishing**](https://soc.gov.vn/check-phishing) : Tin tặc sẽ gửi email hoặc tin nhắn giả mạo yêu cầu người dùng nhập thông tin đăng nhập của họ. Nếu người dùng nhấp vào liên kết hoặc nhập thông tin của họ, tin tặc có thể sử dụng thông tin đó để đăng nhập vào tài khoản của họ.
+[**Tấn công phishing**](https://soc.gov.vn/check-phishing) : Tin tặc sẽ gửi email hoặc tin nhắn giả mạo yêu cầu người dùng nhập thông tin đăng nhập của họ. Nếu người dùng nhấp vào liên kết hoặc nhập thông tin của họ, tin tặc có thể sử dụng thông tin đó để đăng nhập vào tài khoản của họ. <br><br>
+
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/c2916b04-d947-4004-a6ea-cd012ff16d03) <br><br>
+
