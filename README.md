@@ -36,4 +36,5 @@ Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản �
 [**Tấn công phishing**](https://soc.gov.vn/check-phishing) : Tin tặc sẽ gửi email hoặc tin nhắn giả mạo yêu cầu người dùng nhập thông tin đăng nhập của họ. Nếu người dùng nhấp vào liên kết hoặc nhập thông tin của họ, tin tặc có thể sử dụng thông tin đó để đăng nhập vào tài khoản của họ. <br><br>
 
 ![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/c2916b04-d947-4004-a6ea-cd012ff16d03) <br><br>
+[**Tấn công man-in-the-middle**](https://viblo.asia/p/man-in-the-middle-attack-mitm-aWj53LMbK6m)  : Tin tặc sẽ chặn lưu lượng truy cập giữa người dùng và máy chủ. Sau đó, tin tặc có thể thay đổi lưu lượng truy cập để lấy thông tin đăng nhập của người dùng.
 
