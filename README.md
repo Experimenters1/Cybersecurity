@@ -55,7 +55,10 @@ Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản �
 
 [**Cybersecurity Email**](https://www.proofpoint.com/us/threat-reference/email-security) là một thuật ngữ dùng để mô tả các công nghệ và phương pháp được sử dụng để bảo vệ **email** khỏi các mối đe dọa an ninh mạng, chẳng hạn như: <br><br>
 
-+) **Phishing** : Đây là một loại tấn công lừa đảo trong đó kẻ tấn công gửi email giả mạo đến người dùng, yêu cầu họ cung cấp thông tin nhạy cảm như mật khẩu, số thẻ tín dụng hoặc thông tin tài khoản ngân hàng.
++) **Phishing** : Đây là một loại tấn công lừa đảo trong đó kẻ tấn công gửi email giả mạo đến người dùng, yêu cầu họ cung cấp thông tin nhạy cảm như mật khẩu, số thẻ tín dụng hoặc thông tin tài khoản ngân hàng. <br><br>
 
-![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/768751a8-c487-420b-bf11-b66a4ecfb04a)
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/768751a8-c487-420b-bf11-b66a4ecfb04a)<br><br>
 [**Malware**](https://www.thegioididong.com/hoi-dap/malware-la-gi-tan-cong-phat-tan-malware-la-hinh-thuc-tan-1314306): Đây là một loại phần mềm độc hại có thể được gắn vào email dưới dạng tệp đính kèm hoặc liên kết. Khi người dùng mở tệp đính kèm hoặc nhấp vào liên kết, malware sẽ được cài đặt trên thiết bị của họ và có thể đánh cắp dữ liệu, làm hỏng hệ thống hoặc thực hiện các hành động độc hại khác.
+<br><br>
+
+
