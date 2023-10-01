@@ -19,3 +19,8 @@ Dưới đây là một số mẹo để tạo mật khẩu an toàn: <br><br>
 
 + )  Đổi mật khẩu của bạn thường xuyên, đặc biệt là đối với các tài khoản quan trọng như tài khoản ngân hàng và email của bạn.  <br><br>
 
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/29ce0679-4a4c-410b-bd7b-645243e30cc5)
+
+Bạn cũng nên bật xác thực hai yếu tố [**2FA**](https://www.microsoft.com/vi-vn/security/business/security-101/what-is-two-factor-authentication-2fa) cho tất cả tài khoản hỗ trợ tính năng này.  [**2FA**](https://www.microsoft.com/vi-vn/security/business/security-101/what-is-two-factor-authentication-2fa) thêm một lớp bảo mật bổ sung cho tài khoản của bạn bằng cách yêu cầu bạn nhập mã từ ứng dụng xác thực sau khi nhập mật khẩu của bạn.
+
+
