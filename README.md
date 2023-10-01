@@ -62,4 +62,7 @@ Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản �
 <br><br>
 ![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/02355ee4-e5ef-4f57-917c-7b4facfbfc0e) <br><br>
 
+[**Spam**](https://www.ods.vn/tai-lieu/spam-email-la-gi-cac-hinh-thuc-spam-email-thuong-gap-hien-nay.html) : Đây là loại email không mong muốn, thường được sử dụng để quảng cáo các sản phẩm hoặc dịch vụ không đáng tin cậy hoặc để truyền bá phần mềm độc hại. <br><br>
+
+
 
