@@ -51,4 +51,5 @@ Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản �
 +) Cẩn thận với các email và tin nhắn lạ. <br><br>
 +) Cập nhật phần mềm của bạn thường xuyên. <br><br>
 
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/0c9fef08-7003-4ac0-8585-de69291cfa2f)
 
