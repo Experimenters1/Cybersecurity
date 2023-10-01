@@ -21,6 +21,14 @@ Dưới đây là một số mẹo để tạo mật khẩu an toàn: <br><br>
 
 ![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/29ce0679-4a4c-410b-bd7b-645243e30cc5)
 
-Bạn cũng nên bật xác thực hai yếu tố [**2FA**](https://www.microsoft.com/vi-vn/security/business/security-101/what-is-two-factor-authentication-2fa) cho tất cả tài khoản hỗ trợ tính năng này.  [**2FA**](https://www.microsoft.com/vi-vn/security/business/security-101/what-is-two-factor-authentication-2fa) thêm một lớp bảo mật bổ sung cho tài khoản của bạn bằng cách yêu cầu bạn nhập mã từ ứng dụng xác thực sau khi nhập mật khẩu của bạn.
+Bạn cũng nên bật xác thực hai yếu tố [**2FA**](https://www.microsoft.com/vi-vn/security/business/security-101/what-is-two-factor-authentication-2fa) cho tất cả tài khoản hỗ trợ tính năng này.  [**2FA**](https://www.microsoft.com/vi-vn/security/business/security-101/what-is-two-factor-authentication-2fa) thêm một lớp bảo mật bổ sung cho tài khoản của bạn bằng cách yêu cầu bạn nhập mã từ ứng dụng xác thực sau khi nhập mật khẩu của bạn. <br><br>
+
+Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản đến phức tạp. Dưới đây là một số kỹ thuật phổ biến nhất: <br><br> 
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/9847cd4e-369d-4df1-84e7-7b73c5ea7045)  <br><br>  
+Tấn công  [**brute force**](https://viblo.asia/p/tan-cong-brute-force-la-gi-oOVlYbz458W) : Tin tặc sẽ sử dụng một chương trình máy tính để thử tất cả các khả năng mật khẩu có thể có cho đến khi tìm thấy mật khẩu chính xác. Kỹ thuật này có thể mất nhiều thời gian, nhưng nó có thể thành công nếu mật khẩu ngắn hoặc dễ đoán. <br><br>
+
+
+
+
 
 
