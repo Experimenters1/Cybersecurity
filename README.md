@@ -79,5 +79,24 @@ Các **doanh nghiệp** cũng có thể thực hiện một số biện pháp đ
 + ) Mã hóa email nhạy cảm trước khi gửi đi. <br><br>
 
 
-![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/893af9eb-c88f-4d70-9433-9ad6dec0cd72)
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/893af9eb-c88f-4d70-9433-9ad6dec0cd72) <br><br>
+Chế độ ẩn danh **(incognito mode)** hoặc chế độ riêng tư **(private mode)** là một tính năng của trình duyệt **web** cho phép bạn duyệt **web** mà không lưu lịch sử duyệt web, **cookie**, dữ liệu trang web hoặc thông tin được nhập vào biểu mẫu. Điều này có nghĩa là bất kỳ ai khác sử dụng cùng một thiết bị sẽ không thể thấy những trang web bạn đã truy cập khi ở chế độ ẩn danh. <br><br> 
+
+
+Theo quan điểm của **Cybersecurity**, chế độ ẩn danh có thể được coi là một biện pháp bảo mật hữu ích, nhưng nó không phải là một giải pháp bảo mật hoàn hảo. Chế độ ẩn danh có thể giúp bảo vệ quyền riêng tư của bạn khỏi những người khác sử dụng cùng một thiết bị, nhưng nó không thể bảo vệ bạn khỏi tất cả các hình thức theo dõi trực tuyến. <br><br> 
+
+Dưới đây là một số điểm mạnh và điểm yếu của chế độ ẩn danh: <br><br> 
+
+Điểm mạnh:  <br><br> 
+
++ ) Chế độ ẩn danh không lưu lịch sử duyệt web, cookie, dữ liệu trang web hoặc thông tin được nhập vào biểu mẫu. Điều này có nghĩa là bất kỳ ai khác sử dụng cùng một thiết bị sẽ không thể thấy những trang web bạn đã truy cập khi ở chế độ ẩn danh. <br><br> 
++ ) Chế độ ẩn danh có thể hữu ích để duyệt web mà không bị theo dõi bởi các nhà quảng cáo. <br><br> 
++ ) Chế độ ẩn danh có thể hữu ích để truy cập các trang web bị chặn bởi mạng của bạn. <br><br> 
+
+Điểm yếu:  <br><br>
+
++ ) Chế độ ẩn danh không bảo vệ bạn khỏi tất cả các hình thức theo dõi trực tuyến. Ví dụ, nhà cung cấp dịch vụ internet (ISP) của bạn vẫn có thể theo dõi các trang web bạn truy cập, ngay cả khi bạn đang sử dụng chế độ ẩn danh. <br><br> 
++ ) Một số trang web có thể sử dụng các phương pháp khác để theo dõi hoạt động của bạn, chẳng hạn như dấu vân tay trình duyệt. <br><br>
++ ) Chế độ ẩn danh không bảo vệ bạn khỏi các cuộc tấn công mạng, chẳng hạn như phần mềm độc hại và lừa đảo. <br><br>
+  
 
