@@ -64,5 +64,16 @@ Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản �
 
 [**Spam**](https://www.ods.vn/tai-lieu/spam-email-la-gi-cac-hinh-thuc-spam-email-thuong-gap-hien-nay.html) : Đây là loại email không mong muốn, thường được sử dụng để quảng cáo các sản phẩm hoặc dịch vụ không đáng tin cậy hoặc để truyền bá phần mềm độc hại. <br><br>
 
-**Cybersecurity Email** là rất quan trọng vì **email** là một trong những phương tiện giao tiếp được sử dụng rộng rãi nhất trên thế giới. Các doanh nghiệp và cá nhân đều sử dụng email để gửi và nhận thông tin nhạy cảm, chẳng hạn như hợp đồng, dữ liệu khách hàng và thông tin tài chính. Nếu **email** không được bảo mật, thông tin này có thể bị đánh cắp hoặc sử dụng vào mục đích xấu.
+**Cybersecurity Email** là rất quan trọng vì **email** là một trong những phương tiện giao tiếp được sử dụng rộng rãi nhất trên thế giới. Các doanh nghiệp và cá nhân đều sử dụng email để gửi và nhận thông tin nhạy cảm, chẳng hạn như hợp đồng, dữ liệu khách hàng và thông tin tài chính. Nếu **email** không được bảo mật, thông tin này có thể bị đánh cắp hoặc sử dụng vào mục đích xấu. <br><br>
 
+Để bảo mật **email**, người dùng có thể thực hiện một số biện pháp sau: <br><br>
+
++) Sử dụng mật khẩu mạnh và bật xác thực hai yếu tố cho tất cả tài khoản email của bạn. <br><br>
++) Cẩn thận với các email từ những người gửi không xác minh. Không mở tệp đính kèm hoặc nhấp vào liên kết trong email từ những người gửi mà bạn không biết hoặc không tin tưởng. <br><br>
++) Giữ phần mềm chống vi-rút và chống phần mềm độc hại của bạn được cập nhật. <br><br>
++) Sử dụng một dịch vụ email có tính năng bảo mật tích hợp, chẳng hạn như mã hóa email và lọc spam. <br><br>
+
+Các **doanh nghiệp** cũng có thể thực hiện một số biện pháp để bảo mật **email** cho nhân viên của mình, chẳng hạn như: <br><br>
++ ) Đào tạo nhân viên về các mối đe dọa an ninh mạng qua email và các cách phát hiện và tránh chúng. <br><br>
++) Sử dụng một giải pháp bảo mật email doanh nghiệp để lọc spam, malware và các mối đe dọa khác. <br><br>
++) Mã hóa email nhạy cảm trước khi gửi đi. <br><br>
