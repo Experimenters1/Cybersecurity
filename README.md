@@ -75,5 +75,5 @@ Có rất nhiều kỹ thuật hack mật khẩu khác nhau, từ đơn giản �
 
 Các **doanh nghiệp** cũng có thể thực hiện một số biện pháp để bảo mật **email** cho nhân viên của mình, chẳng hạn như: <br><br>
 + ) Đào tạo nhân viên về các mối đe dọa an ninh mạng qua email và các cách phát hiện và tránh chúng. <br><br>
-+) Sử dụng một giải pháp bảo mật email doanh nghiệp để lọc spam, malware và các mối đe dọa khác. <br><br>
-+) Mã hóa email nhạy cảm trước khi gửi đi. <br><br>
++ ) Sử dụng một giải pháp bảo mật email doanh nghiệp để lọc spam, malware và các mối đe dọa khác. <br><br>
++ ) Mã hóa email nhạy cảm trước khi gửi đi. <br><br>
