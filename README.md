@@ -107,4 +107,5 @@ Dưới đây là một số mẹo để sử dụng chế độ ẩn danh an to
 
 Tóm lại, chế độ ẩn danh là một biện pháp bảo mật hữu ích, nhưng nó không phải là một giải pháp bảo mật hoàn hảo. Để bảo vệ quyền riêng tư trực tuyến của bạn tốt hơn, bạn nên sử dụng kết hợp chế độ ẩn danh với các công cụ bảo mật khác. <br><br>
 
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/7087126e-993b-44fc-bbe9-1a40945eb9df)
 
