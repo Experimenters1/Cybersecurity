@@ -98,5 +98,13 @@ Dưới đây là một số điểm mạnh và điểm yếu của chế độ 
 + ) Chế độ ẩn danh không bảo vệ bạn khỏi tất cả các hình thức theo dõi trực tuyến. Ví dụ, nhà cung cấp dịch vụ internet (ISP) của bạn vẫn có thể theo dõi các trang web bạn truy cập, ngay cả khi bạn đang sử dụng chế độ ẩn danh. <br><br> 
 + ) Một số trang web có thể sử dụng các phương pháp khác để theo dõi hoạt động của bạn, chẳng hạn như dấu vân tay trình duyệt. <br><br>
 + ) Chế độ ẩn danh không bảo vệ bạn khỏi các cuộc tấn công mạng, chẳng hạn như phần mềm độc hại và lừa đảo. <br><br>
-  
+
+Dưới đây là một số mẹo để sử dụng chế độ ẩn danh an toàn hơn:
+
++ ) Sử dụng kết hợp chế độ ẩn danh với các công cụ bảo mật khác, chẳng hạn như VPN và trình chặn quảng cáo.
++ ) Chỉ sử dụng chế độ ẩn danh cho các hoạt động mà bạn không muốn người khác xem.
++ ) Biết rằng chế độ ẩn danh không bảo vệ bạn khỏi tất cả các hình thức theo dõi trực tuyến.
+
+Tóm lại, chế độ ẩn danh là một biện pháp bảo mật hữu ích, nhưng nó không phải là một giải pháp bảo mật hoàn hảo. Để bảo vệ quyền riêng tư trực tuyến của bạn tốt hơn, bạn nên sử dụng kết hợp chế độ ẩn danh với các công cụ bảo mật khác.
+
 
