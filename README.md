@@ -77,3 +77,7 @@ Các **doanh nghiệp** cũng có thể thực hiện một số biện pháp đ
 + ) Đào tạo nhân viên về các mối đe dọa an ninh mạng qua email và các cách phát hiện và tránh chúng. <br><br>
 + ) Sử dụng một giải pháp bảo mật email doanh nghiệp để lọc spam, malware và các mối đe dọa khác. <br><br>
 + ) Mã hóa email nhạy cảm trước khi gửi đi. <br><br>
+
+
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/893af9eb-c88f-4d70-9433-9ad6dec0cd72)
+
