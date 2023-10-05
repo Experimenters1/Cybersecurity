@@ -141,4 +141,4 @@ Dưới đây là một số mẹo cụ thể để quản lý cookie trong trì
 +) Xóa **cookie** thủ công. Bạn có thể xóa **cookie** thủ công từ trình duyệt của mình.<br><br>
 +) Sử dụng tiện ích mở rộng trình duyệt. Có một số tiện ích mở rộng trình duyệt có thể giúp bạn quản lý **cookie.**<br><br>
 
- 
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/a2341893-4172-41bf-a96c-78cc7eb63e4c)
