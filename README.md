@@ -137,8 +137,8 @@ Theo **Cybersecurity**, **cookie** có những điều cần chú ý sau:<br><br
 
 
 Dưới đây là một số mẹo cụ thể để quản lý cookie trong trình duyệt web của bạn:<br><br>
-+) Thay đổi cài đặt cookie của trình duyệt. Hầu hết các trình duyệt đều cho phép bạn chấp nhận tất cả cookie, chỉ chấp nhận cookie của bên thứ nhất hoặc chặn tất cả cookie.
-+) Xóa cookie thủ công. Bạn có thể xóa cookie thủ công từ trình duyệt của mình.
-+) Sử dụng tiện ích mở rộng trình duyệt. Có một số tiện ích mở rộng trình duyệt có thể giúp bạn quản lý cookie.
++) Thay đổi cài đặt **cookie** của trình duyệt. Hầu hết các trình duyệt đều cho phép bạn chấp nhận tất cả **cookie**, chỉ chấp nhận **cookie** của bên thứ nhất hoặc chặn tất cả **cookie**.<br><br>
++) Xóa **cookie** thủ công. Bạn có thể xóa **cookie** thủ công từ trình duyệt của mình.<br><br>
++) Sử dụng tiện ích mở rộng trình duyệt. Có một số tiện ích mở rộng trình duyệt có thể giúp bạn quản lý **cookie.**<br><br>
 
  
