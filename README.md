@@ -133,9 +133,12 @@ Theo **Cybersecurity**, **cookie** có những điều cần chú ý sau:<br><br
 Để giảm thiểu rủi ro tiềm ẩn của **cookie**, bạn có thể thực hiện các biện pháp sau:<br><br>
 + )Chỉ chấp nhận **cookie** của bên thứ nhất. **Cookie** của bên thứ ba có thể được sử dụng để theo dõi bạn trên nhiều trang web khác nhau.<br><br>
 + )Xóa **cookie** thường xuyên. **Cookie** có thể lưu trữ thông tin nhạy cảm về bạn. Bạn nên xóa **cookie** thường xuyên để bảo vệ quyền riêng tư của mình.<br><br>
-+ )Sử dụng trình duyệt bảo mật. Các trình duyệt bảo mật có thể giúp bạn bảo vệ mình khỏi phần mềm độc hại và các mối đe dọa khác.
++ )Sử dụng trình duyệt bảo mật. Các trình duyệt bảo mật có thể giúp bạn bảo vệ mình khỏi phần mềm độc hại và các mối đe dọa khác.<br><br>
 
 
-
+Dưới đây là một số mẹo cụ thể để quản lý cookie trong trình duyệt web của bạn:<br><br>
++) Thay đổi cài đặt cookie của trình duyệt. Hầu hết các trình duyệt đều cho phép bạn chấp nhận tất cả cookie, chỉ chấp nhận cookie của bên thứ nhất hoặc chặn tất cả cookie.
++) Xóa cookie thủ công. Bạn có thể xóa cookie thủ công từ trình duyệt của mình.
++) Sử dụng tiện ích mở rộng trình duyệt. Có một số tiện ích mở rộng trình duyệt có thể giúp bạn quản lý cookie.
 
  
