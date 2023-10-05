@@ -115,7 +115,7 @@ Tóm lại, chế độ ẩn danh là một biện pháp bảo mật hữu ích,
 + ) **Cookie** của bên thứ nhất: Được tạo bởi trang web mà bạn đang truy cập.<br><br>
 + ) **Cookie** của bên thứ ba: Được tạo bởi một trang web khác, chẳng hạn như một mạng quảng cáo.<br><br>
 
-Cookie có nhiều tác dụng, bao gồm:<br><br>
+**Cookie** có nhiều tác dụng, bao gồm:<br><br>
 + )Duy trì trạng thái đăng nhập: **Cookie** giúp bạn không phải đăng nhập lại mỗi khi truy cập trang web.<br><br>
 + )Ghi nhớ cài đặt trang web: **Cookie** giúp bạn lưu lại các cài đặt trang web, chẳng hạn như ngôn ngữ và kích thước phông chữ.<br><br>
 + )Cung cấp nội dung phù hợp: **Cookie** giúp các trang web cung cấp nội dung phù hợp với sở thích của bạn.<br><br>
@@ -131,3 +131,11 @@ Theo **Cybersecurity**, **cookie** có những điều cần chú ý sau:<br><br
 + ) **Cookie** có thể bị đánh cắp. Nếu máy tính của bạn bị xâm nhập, kẻ tấn công có thể đánh cắp **cookie** của bạn. Điều này có thể cho phép kẻ tấn công truy cập tài khoản của bạn hoặc thực hiện các hành động trái phép thay mặt bạn.<br><br>
 
 Để giảm thiểu rủi ro tiềm ẩn của **cookie**, bạn có thể thực hiện các biện pháp sau:<br><br>
++ )Chỉ chấp nhận **cookie** của bên thứ nhất. **Cookie** của bên thứ ba có thể được sử dụng để theo dõi bạn trên nhiều trang web khác nhau.<br><br>
++ )Xóa **cookie** thường xuyên. **Cookie** có thể lưu trữ thông tin nhạy cảm về bạn. Bạn nên xóa **cookie** thường xuyên để bảo vệ quyền riêng tư của mình.<br><br>
++ )Sử dụng trình duyệt bảo mật. Các trình duyệt bảo mật có thể giúp bạn bảo vệ mình khỏi phần mềm độc hại và các mối đe dọa khác.
+
+
+
+
+ 
