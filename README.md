@@ -107,5 +107,27 @@ Dưới đây là một số mẹo để sử dụng chế độ ẩn danh an to
 
 Tóm lại, chế độ ẩn danh là một biện pháp bảo mật hữu ích, nhưng nó không phải là một giải pháp bảo mật hoàn hảo. Để bảo vệ quyền riêng tư trực tuyến của bạn tốt hơn, bạn nên sử dụng kết hợp chế độ ẩn danh với các công cụ bảo mật khác. <br><br>
 
-![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/7087126e-993b-44fc-bbe9-1a40945eb9df)
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/7087126e-993b-44fc-bbe9-1a40945eb9df) <br><br>
+**Cookie** là một tập tin nhỏ được trang web lưu trữ trên máy tính của bạn. **Cookie** được sử dụng để lưu trữ thông tin về hoạt động duyệt web của bạn, chẳng hạn như tên người dùng, mật khẩu, cài đặt trang web và thông tin về các trang web bạn đã truy cập.<br><br>
 
+**Cookie** có hai loại chính:<br><br>
+
++ ) **Cookie** của bên thứ nhất: Được tạo bởi trang web mà bạn đang truy cập.<br><br>
++ ) **Cookie** của bên thứ ba: Được tạo bởi một trang web khác, chẳng hạn như một mạng quảng cáo.<br><br>
+
+Cookie có nhiều tác dụng, bao gồm:<br><br>
++ )Duy trì trạng thái đăng nhập: **Cookie** giúp bạn không phải đăng nhập lại mỗi khi truy cập trang web.<br><br>
++ )Ghi nhớ cài đặt trang web: **Cookie** giúp bạn lưu lại các cài đặt trang web, chẳng hạn như ngôn ngữ và kích thước phông chữ.<br><br>
++ )Cung cấp nội dung phù hợp: **Cookie** giúp các trang web cung cấp nội dung phù hợp với sở thích của bạn.<br><br>
+
+**Cookie** có thể được sử dụng cho mục đích theo dõi người dùng. Các trang web có thể sử dụng **cookie** để theo dõi hoạt động duyệt web của bạn trên nhiều trang web khác nhau. Điều này có thể được sử dụng để nhắm mục tiêu quảng cáo cho bạn.<br><br>
+
+Để quản lý **cookie**, bạn có thể thay đổi cài đặt trình duyệt của mình. Hầu hết các trình duyệt đều cho phép bạn chấp nhận tất cả **cookie**, chỉ chấp nhận **cookie** của bên thứ nhất hoặc chặn tất cả **cookie**.<br><br>
+
+Theo **Cybersecurity**, **cookie** có những điều cần chú ý sau:<br><br>
+
++ ) **Cookie** có thể được sử dụng để theo dõi người dùng. Các trang web có thể sử dụng **cookie** để theo dõi hoạt động duyệt web của bạn trên nhiều trang web khác nhau. Điều này có thể được sử dụng để nhắm mục tiêu quảng cáo cho bạn.<br><br>
++ ) **Cookie** có thể được sử dụng để cài đặt phần mềm độc hại. Một số loại **cookie** có thể được sử dụng để cài đặt phần mềm độc hại trên máy tính của bạn. Phần mềm độc hại này có thể gây hại cho máy tính của bạn hoặc đánh cắp dữ liệu của bạn.<br><br>
++ ) **Cookie** có thể bị đánh cắp. Nếu máy tính của bạn bị xâm nhập, kẻ tấn công có thể đánh cắp **cookie** của bạn. Điều này có thể cho phép kẻ tấn công truy cập tài khoản của bạn hoặc thực hiện các hành động trái phép thay mặt bạn.<br><br>
+
+Để giảm thiểu rủi ro tiềm ẩn của **cookie**, bạn có thể thực hiện các biện pháp sau:<br><br>
