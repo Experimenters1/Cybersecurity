@@ -141,4 +141,12 @@ Dưới đây là một số mẹo cụ thể để quản lý cookie trong trì
 +) Xóa **cookie** thủ công. Bạn có thể xóa **cookie** thủ công từ trình duyệt của mình.<br><br>
 +) Sử dụng tiện ích mở rộng trình duyệt. Có một số tiện ích mở rộng trình duyệt có thể giúp bạn quản lý **cookie.**<br><br>
 
-![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/a2341893-4172-41bf-a96c-78cc7eb63e4c)
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/a2341893-4172-41bf-a96c-78cc7eb63e4c)<br><br>
+**Encryption**<br><br>
+**Mã hóa (Encryption)** là một kỹ thuật bảo mật được sử dụng để bảo vệ thông tin khỏi những người truy cập trái phép. **Mã hóa (Encryption)** hoạt động bằng cách sử dụng một thuật toán và một khóa để biến đổi thông tin thành một dạng không thể đọc được, được gọi là văn bản mã hóa. Chỉ những người có khóa mới có thể giải mã văn bản mã hóa và đọc được thông tin gốc.<br><br>
+
+**Mã hóa (Encryption)** được sử dụng rộng rãi trong nhiều lĩnh vực khác nhau, bao gồm:<br><br>
++ ) Bảo mật dữ liệu: Mã hóa được sử dụng để bảo vệ dữ liệu khi nó được lưu trữ trên máy tính hoặc truyền tải qua mạng. Ví dụ, các công ty tài chính sử dụng mã hóa để bảo vệ thông tin thẻ tín dụng của khách hàng.<br><br>
++ ) Bảo mật email: Mã hóa được sử dụng để bảo vệ email khỏi những người truy cập trái phép. Ví dụ, các doanh nghiệp sử dụng mã hóa để bảo vệ email nội bộ khỏi bị đánh cắp.<br><br>
++ ) Bảo mật tin nhắn tức thời: Mã hóa được sử dụng để bảo vệ tin nhắn tức thời khỏi những người truy cập trái phép. Ví dụ, các ứng dụng tin nhắn tức thời như WhatsApp và Signal sử dụng mã hóa end-to-end để bảo mật tin nhắn của người dùng.<br><br>
++ )Bảo mật VPN: Mã hóa được sử dụng để bảo mật kết nối VPN. Ví dụ, các công ty sử dụng VPN để cho phép nhân viên truy cập vào mạng nội bộ từ xa một cách an toàn<br><br>
