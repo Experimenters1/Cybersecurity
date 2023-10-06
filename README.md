@@ -150,3 +150,25 @@ Dưới đây là một số mẹo cụ thể để quản lý cookie trong trì
 + ) Bảo mật email: Mã hóa được sử dụng để bảo vệ email khỏi những người truy cập trái phép. Ví dụ, các doanh nghiệp sử dụng mã hóa để bảo vệ email nội bộ khỏi bị đánh cắp.<br><br>
 + ) Bảo mật tin nhắn tức thời: Mã hóa được sử dụng để bảo vệ tin nhắn tức thời khỏi những người truy cập trái phép. Ví dụ, các ứng dụng tin nhắn tức thời như WhatsApp và Signal sử dụng mã hóa end-to-end để bảo mật tin nhắn của người dùng.<br><br>
 + )Bảo mật VPN: Mã hóa được sử dụng để bảo mật kết nối VPN. Ví dụ, các công ty sử dụng VPN để cho phép nhân viên truy cập vào mạng nội bộ từ xa một cách an toàn<br><br>
+
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/a9947959-9908-4d20-ba03-1d4712c41f5e) <br><br>
+
+**Caesar Cipher in Cryptography (Mật mã Caesar)** <br><br>
+**Caesar Cipher in Cryptography (Mật mã Caesar)** là một loại mật mã thay thế trong đó mỗi chữ cái trong văn bản rõ ràng được thay thế bằng một chữ cái cách nó một số vị trí nhất định trong bảng chữ cái. Ví dụ, với độ dịch là 1, A sẽ được thay thế bằng B, B sẽ được thay thế bằng C, v.v.<br><br>
+
+Để mã hóa một thông điệp bằng mật mã Caesar, bạn có thể sử dụng các bước sau:<br><br>
+1.Viết bảng chữ cái theo hàng.<br><br>
+2.Viết bảng chữ cái ở một hàng khác, nhưng được dịch sang phải bởi số vị trí mong muốn. Đây là bảng chữ cái mật mã của bạn.<br><br>
+3.Để mã hóa một chữ cái, hãy tra cứu nó trong bảng chữ cái văn bản rõ ràng và thay thế bằng chữ cái tương ứng trong bảng chữ cái mật mã.<br><br>
+
+Để giải mã một thông điệp được mã hóa bằng mật mã Caesar, bạn có thể chỉ cần đảo ngược các bước trên.<br><br>
+
+Mật mã Caesar rất đơn giản và dễ bẻ khóa, nhưng chúng vẫn có thể hữu ích để mã hóa các thông điệp ngắn hoặc để che giấu dữ liệu.<br><br>
+
+Giải thích thêm:<br><br>
+
++ ) "Plaintext" là văn bản rõ ràng, văn bản mà bạn muốn mã hóa.<br><br>
+
++ ) "Ciphertext" là văn bản mã hóa, văn bản sau khi đã được mã hóa.<br><br>
+
++ ) "Shift" là độ dịch, số vị trí mà mỗi chữ cái trong văn bản rõ ràng được thay thế trong bảng chữ cái mật mã.<br><br>
