@@ -153,8 +153,8 @@ Dưới đây là một số mẹo cụ thể để quản lý cookie trong trì
 
 ![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/a9947959-9908-4d20-ba03-1d4712c41f5e) <br><br>
 
-**Caesar Cipher in Cryptography (Mật mã Caesar)** <br><br>
-**Caesar Cipher in Cryptography (Mật mã Caesar)** là một loại mật mã thay thế trong đó mỗi chữ cái trong văn bản rõ ràng được thay thế bằng một chữ cái cách nó một số vị trí nhất định trong bảng chữ cái. Ví dụ, với độ dịch là 1, A sẽ được thay thế bằng B, B sẽ được thay thế bằng C, v.v.<br><br>
+[**Caesar Cipher in Cryptography (Mật mã Caesar)**](https://github.com/Experimenters1/Cybersecurity/tree/main/Caesar_Cipher_in_Cryptography)<br><br> 
+[**Caesar Cipher in Cryptography (Mật mã Caesar)**](https://github.com/Experimenters1/Cybersecurity/tree/main/Caesar_Cipher_in_Cryptography) là một loại mật mã thay thế trong đó mỗi chữ cái trong văn bản rõ ràng được thay thế bằng một chữ cái cách nó một số vị trí nhất định trong bảng chữ cái. Ví dụ, với độ dịch là 1, A sẽ được thay thế bằng B, B sẽ được thay thế bằng C, v.v.<br><br>
 
 Để mã hóa một thông điệp bằng mật mã Caesar, bạn có thể sử dụng các bước sau:<br><br>
 1.Viết bảng chữ cái theo hàng.<br><br>
