@@ -180,7 +180,7 @@ Giải thích thêm:<br><br>
 
 Tóm lại, **HTTPS** là một công nghệ quan trọng để bảo vệ quyền riêng tư và an ninh của dữ liệu truyền qua internet và được sử dụng rộng rãi để bảo vệ các giao dịch trực tuyến, bảo vệ thông tin người dùng và đảm bảo tính toàn vẹn của giao tiếp web.
 
-Tóm lại, chúng tôi có một số gợi ý sau để an toàn hơn:
-  1.Sử dụng trình quản lý mật khẩu (Use a password manager)
-  2.Sử dụng xác thực hai yếu tố  (Use two-factor authentication)
-  3.Sử dụng mã hóa (từ đầu đến cuối) (Use (end-to-end) encryption)
+**Tóm lại, chúng tôi có một số gợi ý sau để an toàn hơn:<br><br>
+  1.Sử dụng trình quản lý mật khẩu (Use a password manager) <br><br>
+  2.Sử dụng xác thực hai yếu tố  (Use two-factor authentication) <br><br>
+  3.Sử dụng mã hóa (từ đầu đến cuối) (Use (end-to-end) encryption)** <br><br>
