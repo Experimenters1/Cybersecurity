@@ -172,3 +172,11 @@ Giải thích thêm:<br><br>
 + ) "Ciphertext" là văn bản mã hóa, văn bản sau khi đã được mã hóa.<br><br>
 
 + ) "Shift" là độ dịch, số vị trí mà mỗi chữ cái trong văn bản rõ ràng được thay thế trong bảng chữ cái mật mã.<br><br>
+
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/600a9b3a-841a-4143-a6e3-cca4e22e265d) <br><br>
+**"HTTPS" viết tắt của "Hypertext Transfer Protocol Secure" (Giao thức Truyền tải Siêu văn bản Bảo mật)**. Đây là một cách an toàn và được mã hóa để trình duyệt web giao tiếp với các trang web, đảm bảo rằng dữ liệu trao đổi giữa trình duyệt và máy chủ web được bảo vệ khỏi việc nghe trộm và can thiệp từ các bên xấu.
+
+**HTTPS sử dụng các giao thức mã hóa như TLS (Transport Layer Security - Bảo mật Tầng Truyền tải)** để thiết lập kết nối an toàn giữa trình duyệt của người dùng và máy chủ web. Mã hóa này đảm bảo rằng bất kỳ dữ liệu nào, chẳng hạn như thông tin đăng nhập, thông tin thẻ tín dụng hoặc thông tin cá nhân, được truyền giữa trình duyệt và máy chủ đều được bảo mật và không thể dễ dàng bị ngăn chặn hoặc giải mã bởi các hacker.
+
+Tóm lại, **HTTPS** là một công nghệ quan trọng để bảo vệ quyền riêng tư và an ninh của dữ liệu truyền qua internet và được sử dụng rộng rãi để bảo vệ các giao dịch trực tuyến, bảo vệ thông tin người dùng và đảm bảo tính toàn vẹn của giao tiếp web.
+
