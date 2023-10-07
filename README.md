@@ -155,8 +155,9 @@ Dưới đây là một số mẹo cụ thể để quản lý cookie trong trì
 
 [**Caesar Cipher in Cryptography (Mật mã Caesar)**](https://github.com/Experimenters1/Cybersecurity/tree/main/Caesar_Cipher_in_Cryptography)<br><br> 
 ![Screenshot 2023-10-07 at 5 11 48 PM](https://github.com/Experimenters1/Cybersecurity/assets/64000769/902cb50c-4706-49b6-bd0a-44b91b83b2ff)
-![Screenshot 2023-10-07 at 5 12 21 PM](https://github.com/Experimenters1/Cybersecurity/assets/64000769/22eedecd-5ca6-4998-bf06-78ac16e5fe2c)
-![Screenshot 2023-10-07 at 5 13 04 PM](https://github.com/Experimenters1/Cybersecurity/assets/64000769/ab99bf22-fb62-413c-8f5e-51c562934813)<br><br> 
+![Screenshot 2023-10-07 at 5 17 39 PM](https://github.com/Experimenters1/Cybersecurity/assets/64000769/23bab0ad-166c-4fd5-8e3f-132551c791ff)
+![Screenshot 2023-10-07 at 5 18 00 PM](https://github.com/Experimenters1/Cybersecurity/assets/64000769/ae19d3c8-f918-45a6-b392-16087afa2fb0)
+<br><br> 
 
 
 
