@@ -193,7 +193,15 @@ Tóm lại, **HTTPS** là một công nghệ quan trọng để bảo vệ quy�
   2.Sử dụng xác thực hai yếu tố  (Use two-factor authentication) <br><br>
   3.Sử dụng mã hóa (từ đầu đến cuối) (Use (end-to-end) encryption)** <br><br>
 
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/d6b5a72c-556f-4eb5-9521-e52995af641e)<br><br>
 
 **+)Proxy(Máy chủ proxy)** <br><br>
+
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/4f525e0a-76ee-4d2a-944b-bbd83b05f138) <br><br>
+
 **+)Virtual private network (vpn)** <br><br>
+
+![image](https://github.com/Experimenters1/Cybersecurity/assets/64000769/3e6ebf6d-c141-4218-af25-db47c7ce8d46) <br><br>
+
+
 **+)Virtual private Sever(VPS)** <br><br>
